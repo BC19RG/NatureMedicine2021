@@ -12,3 +12,11 @@ Hauke Bartsch, Camilla Tøndel, Bård Reiakvam Kittang, Bergen COVID-19 Research
 Nature Medicine 2021
 
 https://doi.org/10.1038/s41591-021-01433-3
+
+
+Bergen COVID-19 Research Group;
+Anders Madsen, Geir Bredholt, Juha Vahokoski, Elisabeth Berg Fjelltveit,
+Amit Bansal, Mai Chi Trieu, Sonja Ljostveit, Jan Stefan Olofsson, Nina Ertesvåg, 
+Helene Heitmann Sandnes, Anette Corydon, Hanne Søyland, Marianne Eidsheim, Kjerstin Jakobsen, 
+Nina Guldseth, Synnøve Hauge
+
